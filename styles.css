@@ -1,1 +1,18 @@
-
+img{
+	width:100px;
+	height:100px;
+	padding-right:20px;
+}
+p{
+	margin:0px;
+	padding:2px;
+}
+.profile{
+	display:flex;
+}
+h1{
+	margin-top:0px;
+}
+.materialicons{
+	height:50px;
+}
